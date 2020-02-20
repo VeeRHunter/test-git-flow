@@ -2,3 +2,5 @@
 test-git-flow
 
 Update commit 1
+
+Update a-new-feature branch for git flow test
