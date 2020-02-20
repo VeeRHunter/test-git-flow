@@ -6,3 +6,5 @@ Update commit 1
 Update a-new-feature branch for git flow test
 
 Update step 1
+
+Update step 2
